@@ -17,3 +17,4 @@ l = "szöveg"
 print("békaember")
 print("vagyonőr")
 print("értelmiségi")
+print("nemzetközi sztár")
