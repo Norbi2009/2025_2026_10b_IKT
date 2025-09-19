@@ -13,3 +13,5 @@ i = 20
 j = 21
 k = 22
 d = 12
+l = "szöveg"
+print("békaember")
