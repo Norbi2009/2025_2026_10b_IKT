@@ -16,3 +16,4 @@ d = 12
 l = "szöveg"
 print("békaember")
 print("vagyonőr")
+print("értelmiségi")
