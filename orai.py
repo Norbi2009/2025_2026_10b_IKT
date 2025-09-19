@@ -15,3 +15,4 @@ k = 22
 d = 12
 l = "szöveg"
 print("békaember")
+print("vagyonőr")
