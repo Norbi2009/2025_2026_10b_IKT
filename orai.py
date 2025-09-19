@@ -1,5 +1,6 @@
 print("órai munka")
 nev = "sigmacica69"
+b = True
 a = 12
 b = 13
 d = 14
