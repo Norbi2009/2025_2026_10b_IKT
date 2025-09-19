@@ -1,7 +1,7 @@
 print("órai munka")
-nev = "sigmacica69"
+nev = "sigmacica"
 b = True
-a = 12
+a = 1345
 b = 13
 d = 14
 c = 15
