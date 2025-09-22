@@ -21,3 +21,4 @@ print("vagyonőr")
 print("értelmiségi")
 print("nemzetközi sztár")
 print("alekosz")
+# hell yeah
